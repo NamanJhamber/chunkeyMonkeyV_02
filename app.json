@@ -8,10 +8,6 @@
     "orientation": "portrait",
     "primaryColor": "#cccccc",
     "icon": "./logo.png",
-    "loading": {
-      "icon": "./logo.png",
-      "hideExponentText": false
-    },
     "packagerOpts": {
       "assetExts": [
         "ttf",
